@@ -10,3 +10,6 @@ The primary focus of this research is the discreet and subtle everyday contact i
 
 # DATASET (Open Source)
 OneDrive Download Link: https://unsw-my.sharepoint.com/:f:/g/personal/z5330680_ad_unsw_edu_au/EqAc1LkaX2FEj7O76BlqF38B2BDBsJrajcApXqStQ-soxw?e=Bu55Ou
+# Notice
+This dataset is only used for academic purposes. If it is used for commercial or other profit-making purposes, legal liability will be pursued.
+
