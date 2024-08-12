@@ -1,10 +1,6 @@
 # MicroCam
 
 # MicroCam: Leveraging Smartphone Microscope Camera for Context-Aware Contact Surface Sensing
-# Authors: Yongquan Hu 1, Hui-Shyong Yeo 2, Mingyue Yuan 1, Haoran Fan 1, Don Samitha Elvitigala 1, Wen Hu 1, Aaron Quigley 1
-# Affiliations:
-1: University of New South Wales, Australia
-2: Huawei, China
 
 # Check Paper:https://dl.acm.org/doi/10.1145/3610921
 
