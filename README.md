@@ -2,11 +2,29 @@
 
 # MicroCam: Leveraging Smartphone Microscope Camera for Context-Aware Contact Surface Sensing
 
+![image](https://github.com/user-attachments/assets/f7874aab-5d0e-4f90-8c7a-3acc02485b3a)
+
 # Check Paper:
 ACM Library: https://dl.acm.org/doi/10.1145/3610921
 ArXiv: https://arxiv.org/html/2407.15722v1
 
-![image](https://github.com/user-attachments/assets/f7874aab-5d0e-4f90-8c7a-3acc02485b3a)
+# Cite Paper:
+Google scholar link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QqeG8WIAAAAJ&citation_for_view=QqeG8WIAAAAJ:eQOLeE2rZwMC
+
+BibTex:
+@article{hu2023microcam,
+  title={Microcam: Leveraging smartphone microscope camera for context-aware contact surface sensing},
+  author={Hu, Yongquan and Yeo, Hui-Shyong and Yuan, Mingyue and Fan, Haoran and Elvitigala, Don Samitha and Hu, Wen and Quigley, Aaron},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={7},
+  number={3},
+  pages={1--28},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}
+
+MLA:
+Hu, Yongquan, et al. "Microcam: Leveraging smartphone microscope camera for context-aware contact surface sensing." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 7.3 (2023): 1-28.
 
 
 # Abstract
