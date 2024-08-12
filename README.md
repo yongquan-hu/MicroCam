@@ -2,7 +2,9 @@
 
 # MicroCam: Leveraging Smartphone Microscope Camera for Context-Aware Contact Surface Sensing
 
-# Check Paper:https://dl.acm.org/doi/10.1145/3610921
+# Check Paper:
+ACM Library: https://dl.acm.org/doi/10.1145/3610921
+ArXiv: https://arxiv.org/html/2407.15722v1
 
 ![image](https://github.com/user-attachments/assets/f7874aab-5d0e-4f90-8c7a-3acc02485b3a)
 
